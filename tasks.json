@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Do PnS Assignment.",
+    "priority": "HIGH",
+    "dueDate": "2025-11-01"
+  },
+  {
+    "description": "Fix the bugs of the MStress Website.",
+    "priority": "HIGH",
+    "dueDate": "2025-11-06"
+  },
+  {
+    "description": "Do hyperparameter tuning, and training on the new semnatic segmentation dataset.",
+    "priority": "MEDIUM",
+    "dueDate": "2025-10-31"
+  },
+  {
+    "description": "Train the VGGNet based model for segmentation too.",
+    "priority": "MEDIUM",
+    "dueDate": "2025-11-02"
+  }
+]
